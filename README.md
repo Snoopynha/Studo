@@ -28,10 +28,10 @@
 1. Clonar o projeto
 
 ~~~bash  
-  git clone https://github.com/Snoopynha/Stellar-Legacy.git
+  git clone https://github.com/zAlanRibeiro/Studo.git
 
   # Acesse a pasta do projeto
-  cd stellar-legacy
+  cd studo
 ~~~
 
 2. Instalar as dependências 
