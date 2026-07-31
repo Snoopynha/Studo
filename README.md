@@ -84,4 +84,4 @@ Após iniciar o servidor, você pode testar o projeto de duas formas:
 
 ## Licença
 
-[MIT](https://choosealicense.com/licenses/mit/)  
+[GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)  
